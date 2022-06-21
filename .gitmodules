@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "daiR"]
+	path = daiR
+	url = https://github.com/hegghammer/dair
+	shallow = true
+	registered = true
